@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there
+My name is Artem and I'm Oracle developer, currently learning web development.
+### Technologies:
+* Oracle
+* MongoDB
+* JavaScript
+* React
+* NodeJS
+* HTML5
+* CSS3
 
 <!--
 **we-cut-the-night/we-cut-the-night** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
